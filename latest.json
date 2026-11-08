@@ -1,0 +1,11 @@
+{
+  "version": "1.2.2",
+  "title": "ABEA 20 Revival | Upgrade Packs + 10K Gold",
+  "notes": "Native Jumbo Bronze/Silver rewards and Two Rare Gold reward; 10,000-coin mixed Gold pack (6 rare + 3 common players, manager, position modifier). Adds read-only Toko-Ekambi 9704 diagnostics; final-submit issue not yet confirmed fixed.",
+  "url": "https://ABdullahsaad200.github.io/ABEA-FIFA20-Updates/updates/ABEA_Update_1.2.2.zip",
+  "sha256": "3b90ff138d6972642e273faf9c5623431a6b8c4020c57fe274cd115f3a17518a",
+  "files": {
+    "localfut20/abdullah_v12_toko_potm.py": "e78e99586a7e3385bbab6215aff77e6efa1160a47de709bee7ea235bdc12a5bc",
+    "localfut20/abea_content_122.py": "946c005bf01228b8d3350680504058cf0198f6537c78fe632c9b725474db2766"
+  }
+}
